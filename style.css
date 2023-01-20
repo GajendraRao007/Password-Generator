@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 body{
     background-color: #1F2937;
+    color: white;
 }
 
 h1{
@@ -34,4 +35,14 @@ button{
     height: 50px;
     font-size: 15px;
     font-family: 'Inter', sans-serif;
+}
+
+#display-pass{
+    font-size: 50px;
+    color: #55F991;
+}
+
+hr{
+    background-color: #d40000;
+    color: #d40000;
 }
